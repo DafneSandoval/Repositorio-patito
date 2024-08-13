@@ -1,6 +1,6 @@
 # Repositorio-patito
 
-##Repositorio de prueba como primer proyecto de la CH45
+## Repositorio de prueba como primer proyecto de la CH45
 
 Tareas:
 1. Crear el repositorio
